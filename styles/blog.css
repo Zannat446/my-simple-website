@@ -1,4 +1,23 @@
-div{
+.cool{
+    margin: 50px 160px 40px ;
     background-color: bisque;
-    padding: 10px;
+    padding: 50px 50px;
+    border-radius: 50px;
+    box-shadow: 10px 20px 30px coral;
+    
+}
+.hot{
+    margin: 50px 160px 40px ;
+    background-color:antiquewhite;
+    padding: 50px 50px ;
+    border-radius: 50px;
+    box-shadow: 10px 20px 30px coral;
+    
+}
+h1{
+    text-align: center;
+    color: chartreuse;
+}
+ul{
+    color: cadetblue;
 }
